@@ -6,16 +6,16 @@ This is a straightforward demonstration of how we can create various and intrigu
 
 We asked the following queries before using the Covid-19 Dataset to produce graphics.
 
--> Which countries have the most confirmed cases overall?
--> How many recovered instances are there overall across all countries?
--> How many confirmed cases have there been in India overall?
--> How many recovered cases are there in around the world ?
--> How many recovered cases are there in India ?
--> Can the COVID-19 Trend-Line be Predicted?
--> Find the countries with the highest death rates.
--> Where the lowest death rates can be observed.
--> Can we identify any variations between the COVID - 19 Cases Around the World?
--> Can we predict the sheet for reference and the future?
+1) Which countries have the most confirmed cases overall?
+2) How many recovered instances are there overall across all countries?
+3) How many confirmed cases have there been in India overall?
+4) How many recovered cases are there in around the world ?
+5) How many recovered cases are there in India ?
+6) Can the COVID-19 Trend-Line be Predicted?
+7) Find the countries with the highest death rates.
+8) Where the lowest death rates can be observed.
+9) Can we identify any variations between the COVID - 19 Cases Around the World?
+10) Can we predict the sheet for reference and the future?
 
 ### 1. Which countries have the most confirmed cases overall?
 
