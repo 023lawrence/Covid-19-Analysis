@@ -67,8 +67,8 @@ Maharashtra has India's highest recovery rate, according to the above illustrati
 
 Countries with highest deaths are :-
 1) US
-2) Brazil
-3) India
+2) India
+3) Brazil
 
 ### 8. Where the lowest deaths can be observed.
 
